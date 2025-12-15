@@ -1,6 +1,6 @@
 # governance
 
-*Last modified: 2025-12-15**
+*Last modified: 2025-12-15*
 
 rainbowR is currently in the process of formalising its governance. 
 
