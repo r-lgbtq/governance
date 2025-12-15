@@ -31,5 +31,5 @@ To be read alongside the [rainbowR Constitution](constitution.md). In case of co
 - If a member of the committee is not meeting the responsibilities of the role, for example missing three committee meetings without apologies, or repeatedly not completing tasks they have agreed to undertake, then the Committee shall speak with the Committee member to see what can be done to support them, or whether they wish to resign. If responsibilities continue to be not met, the member may have their role in the committee revoked. This does not affect their membership.
 - If a member of the Committee is absent without apology for three months, and does not reply to contact from the Committee, then their committee role will be revoked.
 
-## Amending this policy
+## 7. Amending this policy
 This policy may be amended at a Committee meeting, in accordance with the rules of procudure for meetings, as set out in the Constitution.

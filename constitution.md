@@ -1,7 +1,7 @@
 # rainbowR Constitution
 
 ## 1. Name
-The name of the group shall be **rainbowR**
+The name of the group shall be **rainbowR**.
 
 ## 2. Aims
 The aims of rainbowR will be:
@@ -32,18 +32,19 @@ rainbowR's statement on equal opportunities is part of our Code of Conduct.
 
 ## 5. Officers and committee
 The business of the group will be carried out by a Committee elected at the Annual General Meeting. 
+
 The Committee will meet as necessary and not less than four times a year.
 
 The Committee will consist of a minimum of three and a maximum of eight elected members. 
-Up to two additional members may be co-opted onto the committee at the discretion of the Committee.
+Up to two additional members may be co-opted onto the Committee at the discretion of the Committee.
 
 The officers’ roles are as follows:
 
 - Chair, who shall chair both General and Committee meetings
 - Secretary, who shall be responsible for the taking of minutes and the distribution of all papers
-- Treasurer, who shall be responsible for maintaining accounts.
+- Treasurer, who shall be responsible for maintaining accounts
 
-In the event of an officer standing down during the year a replacement will be elected by the next Annual or Special General Meeting.
+In the event of an officer standing down during the year, a replacement will be elected by the next Annual or Special General Meeting.
 
 The Committee meetings will be open to any member of rainbowR wishing to attend, who may speak but not vote.
 
