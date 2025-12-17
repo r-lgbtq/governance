@@ -44,8 +44,6 @@ The officers’ roles are as follows:
 - Secretary, who shall be responsible for the taking of minutes and the distribution of all papers
 - Treasurer, who shall be responsible for maintaining accounts
 
-In the event of an officer standing down during the year, a replacement will be elected by the next Annual or Special General Meeting.
-
 The Committee meetings will be open to any member of rainbowR wishing to attend, who may speak but not vote.
 
 Committee members may resign, or have their membership revoked, in accordance with the Committee policy.
