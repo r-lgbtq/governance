@@ -11,7 +11,6 @@ To be read alongside the [rainbowR Constitution](constitution.md). In case of co
 
 - The Secretary will announce the opening of nominations for the Committee, along with a clear submission process and deadline, and what the nomination will require (e.g. motiviation statement, links to online presence).
 - The Committee will review nominations. Those that they deem eligible will be circulated to the membership at least a week prior to the General Meeting.
-- In their nomination, prospective Committee members can express interest in any of the three officer roles, as defined in the Constitution.
 
 ## 3. Election of Committee and selection of officers
 
