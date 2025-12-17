@@ -15,8 +15,8 @@ To be read alongside the [rainbowR Constitution](constitution.md). In case of co
 
 ## 3. Election of Committee and selection of officers
 
-- The committee will be elected at the Annual General Meeting, as per the constitution
-- The committee will be elected by [Scottish Single Transferable Vote](https://blog.opavote.com/2016/11/plain-english-explanation-of-scottish.html)
+- The committee will be elected at the Annual General Meeting, as per the constitution.
+- The committee will be elected by [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote).
 - Once elected, the Committee will decide between them which members of the Committee will serve each of the officer roles.
 
 ## 4. Term of Committee members
